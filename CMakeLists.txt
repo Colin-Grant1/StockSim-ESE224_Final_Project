@@ -12,6 +12,8 @@ add_executable(stocksim
     src/CircularQueue.cpp
     src/CSVParser.cpp
     src/DynamicSIPStrategy.cpp
+    src/DynamicSIPStrategyClassic.cpp
+    src/DynamicSIPStrategyFurther.cpp
     src/ETF.cpp
     src/FinancialAsset.cpp
     src/FixedSIPStrategy.cpp

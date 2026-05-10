@@ -1,0 +1,25 @@
+Strategy Name : DynamicCrashExploiter_MA50_70_MA200_200_Dip_0.96_Exp_1.02_Cap_36
+monthlyCapital = $500.00
+startYear = 2000
+endYear = 2020
+ticker = SPX
+
+Algorithm Description :
+This strategy accumulates a monthly reserve and adapts deployment based on trend, drawdown, and short-term volatility.
+It invests lightly in expensive bull phases and deploys aggressively during deeper drawdowns to maximize terminal wealth.
+A reserve cap and end-of-simulation convergence rule enforce full capital deployment without exceeding the fixed budget envelope.
+
+Parameters Used :
+maShortDays = 70
+maLongDays = 200
+volatilityDays = 20
+momentumDays = 5
+dipThreshold = 0.96
+expensiveThreshold = 1.02
+reserveCapMonths = 36.00
+
+Final Portfolio Value : $280362.86
+Fixed SIP Baseline : $276886.13
+CAGR : 4.33 %
+Max Drawdown : 39.55 %
+Total Trades : 240

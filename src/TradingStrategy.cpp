@@ -1,3 +1,6 @@
+// TradingStrategy.cpp
+// Implements shared strategy utilities for performance metrics and output.
+
 #include "../include/TradingStrategy.h"
 
 #include <iomanip>

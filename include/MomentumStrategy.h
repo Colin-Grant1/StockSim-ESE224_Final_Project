@@ -1,3 +1,6 @@
+// MomentumStrategy.h
+// Declares the momentum-based strategy implementation.
+
 #ifndef MOMENTUMSTRATEGY_H
 #define MOMENTUMSTRATEGY_H
 

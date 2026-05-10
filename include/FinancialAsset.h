@@ -1,3 +1,6 @@
+// FinancialAsset.h
+// Declares the abstract base interface for tradable financial assets.
+
 #ifndef FINANCIALASSET_H
 #define FINANCIALASSET_H
 

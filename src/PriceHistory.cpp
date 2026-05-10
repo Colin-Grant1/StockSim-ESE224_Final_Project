@@ -1,3 +1,6 @@
+// PriceHistory.cpp
+// Implements linked-list price-history insertion, traversal, and range printing.
+
 #include "../include/PriceHistory.h"
 #include <iomanip>
 

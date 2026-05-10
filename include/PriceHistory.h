@@ -1,3 +1,6 @@
+// PriceHistory.h
+// Declares linked-list storage and iterators for historical price data.
+
 #ifndef PRICEHISTORY_H
 #define PRICEHISTORY_H
 

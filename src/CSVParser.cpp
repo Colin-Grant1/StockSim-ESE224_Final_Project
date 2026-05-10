@@ -1,3 +1,6 @@
+// CSVParser.cpp
+// Implements CSV parsing and PriceHistory population logic.
+
 #include "../include/CSVParser.h"
 #include <fstream>
 #include <sstream>

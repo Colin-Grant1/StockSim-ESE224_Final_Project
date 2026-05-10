@@ -1,3 +1,6 @@
+// CSVParser.h
+// Declares CSV parsing helpers that load market data into PriceHistory.
+
 #ifndef CSVPARSER_H
 #define CSVPARSER_H
 

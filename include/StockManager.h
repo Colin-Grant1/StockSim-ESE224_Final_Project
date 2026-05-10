@@ -1,3 +1,6 @@
+// StockManager.h
+// Declares a templated manager for storing and searching assets by ticker.
+
 #ifndef STOCKMANAGER_H
 #define STOCKMANAGER_H
 

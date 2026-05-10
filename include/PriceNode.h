@@ -1,3 +1,6 @@
+// PriceNode.h
+// Declares the node structure used in the PriceHistory linked list.
+
 #ifndef PRICENODE_H
 #define PRICENODE_H
 

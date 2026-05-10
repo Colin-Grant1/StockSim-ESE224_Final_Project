@@ -1,3 +1,6 @@
+// OrderQueue.h
+// Declares the pending-order queue and order node structures.
+
 #ifndef ORDERQUEUE_H
 #define ORDERQUEUE_H
 

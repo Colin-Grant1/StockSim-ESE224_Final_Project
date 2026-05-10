@@ -1,3 +1,6 @@
+// Portfolio.h
+// Declares portfolio state, holdings operations, and trade/order integration.
+
 #ifndef PORTFOLIO_H
 #define PORTFOLIO_H
 

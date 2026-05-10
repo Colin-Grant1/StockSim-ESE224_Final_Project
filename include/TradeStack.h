@@ -1,3 +1,6 @@
+// TradeStack.h
+// Declares a stack used to track executed trades for undo support.
+
 #ifndef TRADESTACK_H
 #define TRADESTACK_H
 

@@ -1,3 +1,6 @@
+// TradingStrategy.h
+// Declares shared backtesting result types and strategy base behavior.
+
 #ifndef TRADINGSTRATEGY_H
 #define TRADINGSTRATEGY_H
 

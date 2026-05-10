@@ -1,3 +1,6 @@
+// TradeStack.cpp
+// Implements LIFO trade history behavior for undo functionality.
+
 #include "../include/TradeStack.h"
 #include <iomanip>
 

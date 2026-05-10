@@ -1,3 +1,6 @@
+// CircularQueue.cpp
+// Implements circular-queue operations for fixed-size numeric windows.
+
 #include "../include/CircularQueue.h"
 
 CircularQueue::CircularQueue(int capacity) {

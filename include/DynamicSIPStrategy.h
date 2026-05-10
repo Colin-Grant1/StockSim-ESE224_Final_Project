@@ -1,3 +1,6 @@
+// DynamicSIPStrategy.h
+// Declares the dynamic SIP backtesting strategy and its parameters.
+
 #ifndef DYNAMICSIPSTRATEGY_H
 #define DYNAMICSIPSTRATEGY_H
 

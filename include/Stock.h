@@ -1,3 +1,6 @@
+// Stock.h
+// Declares the Stock asset type and stock-specific analytics.
+
 #ifndef STOCK_H
 #define STOCK_H
 

@@ -1,3 +1,6 @@
+// CircularQueue.h
+// Declares a fixed-size circular queue used for rolling window calculations.
+
 #ifndef CIRCULARQUEUE_H
 #define CIRCULARQUEUE_H
 

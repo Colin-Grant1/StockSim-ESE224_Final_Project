@@ -1,3 +1,6 @@
+// GoldenCrossStrategy.cpp
+// Implements golden-cross signal generation and backtesting.
+
 #include "../include/GoldenCrossStrategy.h"
 
 #include <sstream>

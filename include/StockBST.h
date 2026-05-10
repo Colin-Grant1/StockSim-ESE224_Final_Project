@@ -1,3 +1,6 @@
+// StockBST.h
+// Declares a BST keyed by stock performance metrics for range queries.
+
 #ifndef STOCKBST_H
 #define STOCKBST_H
 

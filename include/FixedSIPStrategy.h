@@ -1,3 +1,6 @@
+// FixedSIPStrategy.h
+// Declares the fixed SIP strategy implementation.
+
 #ifndef FIXEDSIPSTRATEGY_H
 #define FIXEDSIPSTRATEGY_H
 

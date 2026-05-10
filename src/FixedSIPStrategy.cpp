@@ -1,3 +1,6 @@
+// FixedSIPStrategy.cpp
+// Implements fixed SIP contribution backtesting.
+
 #include "../include/FixedSIPStrategy.h"
 
 #include <iomanip>

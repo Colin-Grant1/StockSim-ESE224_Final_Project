@@ -1,3 +1,6 @@
+// Stock.cpp
+// Implements stock-specific calculations and CSV-driven history loading.
+
 #include "../include/Stock.h"
 #include <iomanip>
 

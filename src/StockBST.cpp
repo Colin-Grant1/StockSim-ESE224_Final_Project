@@ -1,3 +1,6 @@
+// StockBST.cpp
+// Implements BST insertion, traversal, range search, and extremum lookup.
+
 #include "../include/StockBST.h"
 #include <iomanip>
 

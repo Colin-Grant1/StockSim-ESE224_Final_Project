@@ -1,3 +1,6 @@
+// FinancialAsset.cpp
+// Implements core financial-asset fields and shared analytics methods.
+
 #include "../include/FinancialAsset.h"
 
 FinancialAsset::FinancialAsset(const string& ticker, const string& name) {

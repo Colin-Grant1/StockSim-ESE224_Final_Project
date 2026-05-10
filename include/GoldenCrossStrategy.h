@@ -1,3 +1,6 @@
+// GoldenCrossStrategy.h
+// Declares the golden-cross moving-average strategy implementation.
+
 #ifndef GOLDENCROSSSTRATEGY_H
 #define GOLDENCROSSSTRATEGY_H
 

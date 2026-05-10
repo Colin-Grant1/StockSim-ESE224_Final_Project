@@ -1,3 +1,6 @@
+// Portfolio.cpp
+// Implements portfolio accounting, trading actions, and summaries.
+
 #include "../include/Portfolio.h"
 #include <iomanip>
 

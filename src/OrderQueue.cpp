@@ -1,3 +1,6 @@
+// OrderQueue.cpp
+// Implements FIFO pending-order queue operations.
+
 #include "../include/OrderQueue.h"
 #include <iomanip>
 

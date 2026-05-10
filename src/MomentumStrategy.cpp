@@ -1,3 +1,6 @@
+// MomentumStrategy.cpp
+// Implements momentum-threshold signal generation and backtesting.
+
 #include "../include/MomentumStrategy.h"
 
 #include <sstream>

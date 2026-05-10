@@ -1,3 +1,6 @@
+// ETF.cpp
+// Implements ETF behavior on top of stock price-history mechanics.
+
 #include "../include/ETF.h"
 #include <iomanip>
 #include <cmath>

@@ -1,3 +1,6 @@
+// DynamicSIPStrategy.cpp
+// Implements dynamic SIP backtest rules and reporting.
+
 #include "../include/DynamicSIPStrategy.h"
 
 #include <sstream>

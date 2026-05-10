@@ -1,3 +1,6 @@
+// ETF.h
+// Declares the ETF asset type built on top of Stock behavior.
+
 #ifndef ETF_H
 #define ETF_H
 

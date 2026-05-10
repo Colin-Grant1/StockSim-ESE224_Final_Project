@@ -172,13 +172,5 @@ SimResult MomentumStrategy::backtest(
 }
 
 string MomentumStrategy::getName() const {
-
-    stringstream ss;
-
-    ss << "6-Month Momentum (Threshold="
-       << fixed << setprecision(2)
-       << momentumThreshold
-       << "%)";
-
-    return ss.str();
+    return "6-Month Momentum";
 }

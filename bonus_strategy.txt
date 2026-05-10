@@ -1,4 +1,4 @@
-Strategy Name : DynamicCrashExploiter_MA50_70_MA200_200_Dip_0.96_Exp_1.02_Cap_36
+Strategy Name : Dynamic SIP (MA=70/200, Dip=0.96, Exp=1.02, Cap=36)
 monthlyCapital = $500.00
 startYear = 2000
 endYear = 2020
@@ -18,8 +18,8 @@ dipThreshold = 0.96
 expensiveThreshold = 1.02
 reserveCapMonths = 36.00
 
-Final Portfolio Value : $280362.86
+Final Portfolio Value : $276909.95
 Fixed SIP Baseline : $276886.13
-CAGR : 4.33 %
-Max Drawdown : 39.55 %
+CAGR : 4.27 %
+Max Drawdown : 42.54 %
 Total Trades : 240

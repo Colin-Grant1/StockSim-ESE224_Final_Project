@@ -185,14 +185,5 @@ SimResult GoldenCrossStrategy::backtest(
 }
 
 string GoldenCrossStrategy::getName() const {
-
-    stringstream ss;
-
-    ss << "Golden Cross ("
-       << shortWindow
-       << "/"
-       << longWindow
-       << " MA)";
-
-    return ss.str();
+    return "Golden Cross (50/200 MA)";
 }

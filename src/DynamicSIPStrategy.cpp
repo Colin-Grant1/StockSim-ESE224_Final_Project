@@ -783,22 +783,16 @@ void DynamicSIPStrategy::performParameterSweep(
     reserveCapMonths = bestCap;
 }
 
+//named based on parameters
 string DynamicSIPStrategy::getName() const {
-
     stringstream ss;
 
-    ss << "DynamicCrashExploiter_MA50_"
-       << maShortDays
-       << "_MA200_"
-       << maLongDays
-       << "_Dip_"
-       << fixed << setprecision(2)
-       << dipThreshold
-       << "_Exp_"
-       << expensiveThreshold
-       << "_Cap_"
-       << setprecision(0)
-       << reserveCapMonths;
+    ss << "Dynamic SIP ("
+       << "MA=" << maShortDays << "/" << maLongDays
+       << ", Dip=" << fixed << setprecision(2) << dipThreshold
+       << ", Exp=" << fixed << setprecision(2) << expensiveThreshold
+       << ", Cap=" << fixed << setprecision(0) << reserveCapMonths
+       << ")";
 
     return ss.str();
 }

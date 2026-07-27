@@ -1,8 +1,4 @@
-# This is a repository for the ESE 224 Final Project at Stony Brook University. 
-
-# Project Team: Ruifung Zhou Feng and Colin Grant
-
-Build and Run Instructions:
+#Build and Run Instructions:
 
 Option A — CMake
 mkdir build && cd build && cmake .. && make

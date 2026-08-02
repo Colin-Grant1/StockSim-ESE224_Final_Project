@@ -62,14 +62,16 @@ Strategies are separated from the underlying backtesting infrastructure through 
 
 ## Building/ Compilation
 
-mkdir build
-cd build
+Option A — CMake
+mkdir build && cd build && cmake .. && make
+./stocksim
 
-cmake ..
-cmake --build .
+Option B — Direct g++
+g++ -std=c++11 -Iinclude src/*.cpp main.cpp -o stocksim
+./stocksim
+./stocksim
 
 Run the resulting executable according to the project configuration.
-
 
 ## Disclaimer
 

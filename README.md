@@ -67,7 +67,6 @@ cd build
 
 cmake ..
 cmake --build .
-```
 
 Run the resulting executable according to the project configuration.
 
